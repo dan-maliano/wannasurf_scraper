@@ -1,6 +1,3 @@
-````markdown
-# Wannasurf Scraper
-
 A Python-based scraper that extracts structured surfing data from 🌐 **[Wannasurf.com](https://www.wannasurf.com/)**, including:
 - Continents and countries
 - Regions and sub-regions
@@ -25,7 +22,7 @@ Before using it:
 
 ## 📁 Project structure
 
-```text
+```
 .
 ├── wannasurf_scraper.py         # Main scraper script
 └── (generated during runtime)
