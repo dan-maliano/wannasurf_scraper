@@ -1,3 +1,5 @@
+# 🏄 Wannasurf Scraper — Installation & Usage Guide
+
 A Python-based scraper that extracts structured surfing data from 🌐 **[Wannasurf.com](https://www.wannasurf.com/)**, including:
 - Continents and countries
 - Regions and sub-regions
